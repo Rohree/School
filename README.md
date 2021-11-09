@@ -1,1 +1,3 @@
 # School
+
+hi my installing git on my lap top....
